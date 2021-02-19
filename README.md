@@ -2,7 +2,7 @@
 One of the first programs I've ever written, for freshman year EGR115 at Embry-Riddle Aeronautical University in 2017.  
 A card game called Mao, GUI-less, in MATLAB. Makes perfect sense.
 
-## Original README:
+### Original README:
 THE GAME OF MAO
 
 FOR UNDERSTANDING THE GAMEPLAY:
